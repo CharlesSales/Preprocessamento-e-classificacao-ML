@@ -32,8 +32,6 @@ Pandas
 
 Scikit-learn
 
-Matplotlib e Seaborn (para visualizações)
-
 🔄 Fluxo do Projeto
 
 Carregamento e Limpeza dos Dados:
